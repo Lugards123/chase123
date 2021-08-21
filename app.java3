@@ -3,3 +3,4 @@ read name
 echo $name
 echo "chase is great to work with"
 echo "welcome $name"
+echo "chase latest"
