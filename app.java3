@@ -1,0 +1,5 @@
+echo "what is your name"
+read name
+echo $name
+echo "chase is great to work with"
+echo "welcome $name"
